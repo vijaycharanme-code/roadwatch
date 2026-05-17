@@ -1,0 +1,12 @@
+Django>=4.2
+djangorestframework
+psycopg2-binary
+django-cors-headers
+djangorestframework-simplejwt
+Pillow
+scikit-learn
+numpy
+scipy
+networkx
+requests
+# Additional dependencies for AI model parsing (e.g. OpenCV if you were fully implementing, but we'll stick to lightweight placeholders)
